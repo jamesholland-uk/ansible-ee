@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ansible-ee-builder"
 version = "0.0.1"
-description = "Build Execution Environments to be used with Ansible AWX"
+description = "Build Execution Environments to be used with Prisma SASE solutions"
 authors = ["Calvin Remsburg <cremsburg.dev@gmail.com>"]
 license = "Apache 2.0"
 

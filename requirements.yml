@@ -1,3 +1,5 @@
 ---
 collections:
-  - cdot65.prisma_access
+  - name: https://github.com/cdot65/pan-os-ansible.git
+    type: git
+    version: 0c19e9f49b24cfb23e927baf31256f188c7bdc54

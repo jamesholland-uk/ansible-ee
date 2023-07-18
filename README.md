@@ -27,5 +27,5 @@ poetry shell
 build the container image with
 
 ```bash
-ansible-builder build --tag ghcr.io/cdot65/ansible-ee-paloaltonetworks:latest
+ansible-builder build --tag ghcr.io/jamesholland-uk/ansible-ee:latest
 ```

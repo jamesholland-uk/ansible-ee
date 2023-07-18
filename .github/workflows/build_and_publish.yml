@@ -56,6 +56,5 @@ jobs:
               run: |
                 pwd
                 docker images
-                cd ansible-ee
-                docker images
+                podman images
                 docker push ghcr.io/jamesholland-uk/ansible-ee:latest

@@ -57,4 +57,4 @@ jobs:
                 pwd
                 docker images
                 podman images
-                docker push ghcr.io/jamesholland-uk/ansible-ee:latest
+                podman push ghcr.io/jamesholland-uk/ansible-ee:latest
